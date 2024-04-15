@@ -1,7 +1,7 @@
 # CSC380
 Concordia Deep Learning Course
 
-This is a reporsitory for the CSC 380 Final Project
+This is a repository for the CSC 380 Final Project
 
 The project will be broken down into several parts:
 1. Data Collection (individual or small groups) - To build an image classification model, we will need images (lots of images). Some of these images should include Niblet, some should not.
